@@ -1,0 +1,7 @@
+langchain
+langchain-openai
+langchain-community
+flask
+python-dotenv
+bs4
+requests
